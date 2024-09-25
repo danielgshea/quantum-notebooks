@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+algoirthms/.venv/
+qcc_f2024/.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+algoirthms/__pycache__/
+qcc_f2024/__pycache__/
+
+
+# Logs
+*.log
+algoirthms/*.log
+qcc_f2024/*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+algoirthms/.DS_Store
+qcc_f2024/.DS_Store
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+# Temporary files
+*.tmp
+*.bak
+*.swp
